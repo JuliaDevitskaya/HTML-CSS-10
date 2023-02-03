@@ -1,0 +1,23 @@
+.navbar-light .navbar-nav .nav-link {
+    color: blue;
+}
+
+img {
+    height: 500px;
+}
+
+.page-link {
+    color: darkred;
+    background-color: aqua;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/forward.svg);
+    background-color: green;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/back.svg);
+    background-color: green;
+}
+
